@@ -29,11 +29,6 @@ Inspirado em uma jornada mágica, cada capítulo é como um feitiço novo para d
 
 ---
 
-## 🚀 Como acessar o Ebook
 
-Você pode baixar o PDF diretamente [clicando aqui](./ebook.pdf) ou abrir o documento HTML navegável:
+> ✨ Design mágico powered by [Gamma.app](https://gamma.app) – porque até magos precisam de ferramentas modernas!
 
-```bash
-git clone https://github.com/seu-usuario/camara-fastify.git
-cd camara-fastify
-start brave.html # ou abra no navegador de sua escolha
